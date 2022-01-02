@@ -53,19 +53,21 @@
     box-shadow: 5px 5px 10px lightgray;
 }
 
-.cat{
-    
-    
-    
-}
-
 .cat h3{
     text-align: center;
     margin-top: 200px;
     text-decoration: underline;
     text-decoration-color: orange;
-    text-decoration-thickness: 10px;
-    text-underline-position: above;
-    
-   
 }
+
+.cat1{
+    box-shadow: 5px 5px 10px lightgray;
+    padding: 45px;
+    border-radius: 10px;
+}
+.side-left{
+    padding-left: 80px;
+}
+
+
+
