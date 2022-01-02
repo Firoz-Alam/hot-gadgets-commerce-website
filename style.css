@@ -1,3 +1,4 @@
+
 .color{
     background-image: linear-gradient(to right,#FF9C35 0%,#FF8319 100%);
    border-radius: 2px;
@@ -10,13 +11,61 @@
     border-radius: 8px;
     cursor: pointer;
 }
-.text-pad{
-    padding-left:20px;
-}
+
 .image img{
-    padding:90px 50px;
-    height: 600px;
+    padding-left: 80px;
+    height: 300px;
 }
-.high{
-    height: 400px;
+
+
+.contain{
+    margin-top: 50px;
+}
+
+.orange-bg{
+    background-color: orange;
+    width: 85%;
+    height: 50%;
+    border-radius: 8px;
+}
+
+.size{
+    padding-left: 25px;
+}
+.l-side{
+    float: left;
+    display: inline;
+}
+.contain2{
+    margin-top: 100px;
+}
+
+.card-footer{
+    border: none;
+    text-align: center;
+}
+.card-body{
+    text-align: center;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.cat{
+    
+    
+    
+}
+
+.cat h3{
+    text-align: center;
+    margin-top: 200px;
+    text-decoration: underline;
+    text-decoration-color: orange;
+    text-decoration-thickness: 10px;
+    text-underline-position: above;
+    
+   
 }
